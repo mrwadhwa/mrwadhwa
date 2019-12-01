@@ -1,13 +1,15 @@
 body{
 	color: #121a2e;
 	padding-top: 100px;
-	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+	text-transform: all;
+	font-family: 'Source Serif Pro', serif;
 }
 .navbar-nav > li{
 	padding-left: 10px;
 	padding-right: 20px;
 }
-h2{
+h1{
 	padding-left: 20px;
 	color: white;
 }
@@ -20,14 +22,26 @@ h2{
 }
 #reshead{
 	padding-left: 30px;
-	padding-bottom: 10px
+	padding-bottom: 10px;
 }
 #homepadding{
 	padding-top: 60px;
+}
+.main-heading{
+	font-family: 'Playfair Display', serif;
+	font-size: 18px;
+	text-align: justify-all;
 }
 .heading{
 	font-family: 'Playfair Display', serif;
 }
 p, content{
 	font-size: 18px;
+    margin: 0px auto;
+	width: 95%;
+}
+.srvc{	
+	width: 98%;
+    margin: 0px auto;
+    border-bottom: 5px solid #969696;
 }
