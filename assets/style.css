@@ -9,6 +9,10 @@ body{
 	padding-left: 10px;
 	padding-right: 20px;
 	font-size: 18px;
+	
+}
+.nav-item{
+	font-family: 'Playfair Display', serif;
 }
 h1{
 	padding-left: 20px;
@@ -32,10 +36,10 @@ h1{
 	font-family: 'Playfair Display', serif;
 	font-size: 22px;
 	text-align: justify-all;
+	text-transform: uppercase;
 }
 .heading{
 	font-family: 'Playfair Display', serif;
-	text-transform: uppercase;
 }
 p, content{
 	font-size: 18px;
